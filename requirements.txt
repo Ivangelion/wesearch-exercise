@@ -1,0 +1,6 @@
+3 libraries:
+- requests
+- os
+- random
+
+Alos, jupyter notebook environment is needed.
